@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="Widget.Theme.Glowstick.ButtonBar.Fullscreen.ActionBar" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/black_overlay</item>
+    </style>
+
+    <style name="Widget.Theme.Glowstick.ButtonBar.Fullscreen" parent="">
+        <item name="android:background">@color/black_overlay</item>
+    </style>
+</resources>
